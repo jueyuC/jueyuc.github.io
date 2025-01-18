@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jueyu Chen"
-description              : "Hello! I'm Jueyu Chen. Welcome to My Homepage! "
+description              : "Hello! I'm Jueyu Chen. Welcome to My Homepage!  jueyuc@seu.edu.cn"
 repository               : "jueyuC/jueyuc.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jueyu Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me2.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
