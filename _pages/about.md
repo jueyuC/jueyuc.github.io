@@ -35,11 +35,11 @@ It will be updated soon..
 
 # 📝 Publications
 
-Coming Soon
+It will be updated soon..
 
 # 🎖 Honors and Awards
 
- Coming Soon
+It will be updated soon..
 
 # 📖 Educations
 
@@ -47,4 +47,4 @@ Coming Soon
 
 # 💻 Internships
 
-Coming Soon
+It will be updated soon..
