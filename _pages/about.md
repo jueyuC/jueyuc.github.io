@@ -25,6 +25,7 @@ Hello, everyone! I'm an undergraduate student from Southeast University. Welcome
 My research interest includes:
 
 - Learning from Label Proportion
+- LLM for molecular generation
 - AI for concrete
 - Machine Learning
 
