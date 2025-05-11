@@ -31,20 +31,12 @@ My research interest includes:
 
 # 🔥 News
 
-It will be updated soon..
-
 # 📝 Publications
-
-It will be updated soon..
 
 # 🎖 Honors and Awards
 
-It will be updated soon..
-
 # 📖 Educations
-
 - *2022.09 - now*, Undergraduate Student, Southeast University.
 
 # 💻 Internships
 
-It will be updated soon..
